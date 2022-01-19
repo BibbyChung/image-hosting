@@ -1,2 +1,2 @@
-# my-site-fileserver
+# my-site-image-hosting
 picgo
